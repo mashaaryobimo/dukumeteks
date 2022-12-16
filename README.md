@@ -1,0 +1,2 @@
+# dukumeteks
+topik 10
